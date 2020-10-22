@@ -1,0 +1,8 @@
+---
+apiVersion: "integration.wso2.com/v1alpha1"
+kind: "Integration"
+metadata:
+  name: "hello-world"
+spec:
+  replicas: 1
+  image: "docker_username/repository:v1.0.0"
