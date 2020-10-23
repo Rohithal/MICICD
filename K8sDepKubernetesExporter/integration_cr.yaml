@@ -2,7 +2,7 @@
 apiVersion: "integration.wso2.com/v1alpha1"
 kind: "Integration"
 metadata:
-  name: "hello-world1"
+  name: "hello-world"
 spec:
   replicas: 1
   image: "rohithawso2/wso2ei:v1.2.0"
