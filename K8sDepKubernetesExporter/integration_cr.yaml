@@ -4,5 +4,5 @@ kind: "Integration"
 metadata:
   name: "hello-world"
 spec:
-  replicas: 1
+  replicas: 2
   image: "rohithawso2/wso2ei:v1.2.0"
